@@ -1,0 +1,1 @@
+We can manage user authentication and authorization, team, project, and organization-level settings. Azure Boards helps you to write query to retrieve specific work items from the system.

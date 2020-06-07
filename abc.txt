@@ -1,0 +1,2 @@
+Azure Boards helps to plan, track, and discuss work across the team. Azure Boards is a powerful agile tool for managing Kanban board, reporting, product backlog.
+

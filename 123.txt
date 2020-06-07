@@ -1,0 +1,1 @@
+Azure Reops service includes unlimited cloud-hosted private Git repository for your project. This is standard Git service and works as distributed source controls.
